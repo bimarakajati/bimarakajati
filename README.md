@@ -20,7 +20,7 @@
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/WasteTrack-Chatbot-API">
+                <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API">
                     <b>WasteTrack Chatbot</b>
                 </a>
             </td>
@@ -28,7 +28,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/WasteTrack-YOLO-API">
+                <a href="https://github.com/bimarakajati/WasteTrack-YOLO-API">
                     <b>WasteTrack YOLO</b>
                 </a>
             </td>
@@ -36,7 +36,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/WasteTrack-Time-Series-API">
+                <a href="https://github.com/bimarakajati/WasteTrack-Time-Series-API">
                     <b>WasteTrack Time-Series</b>
                 </a>
             </td>
@@ -44,7 +44,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/Telegram-Spotify-Bio">
+                <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio">
                     <b>Telegram Spotify Bio</b>
                 </a>
             </td>
@@ -71,7 +71,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://github.com/Annual-People-Analytics-Report">
+                    <a href="https://github.com/bimarakajati/Annual-People-Analytics-Report">
                         <b>Annual People Analytics Report</b>
                     </a>
                 </td>
@@ -79,7 +79,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/Cost-Effectiveness-Analysis-of-Employee-Payroll-Scheme">
+                    <a href="https://github.com/bimarakajati/Cost-Effectiveness-Analysis-of-Employee-Payroll-Scheme">
                         <b>Cost Effectiveness Analysis of Employee Payroll Scheme</b>
                     </a>
                 </td>
@@ -87,7 +87,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/Demand-Trend-Analysis-and-Transaction-Conversion-Rate-for-Providing-Better-Customer-Satisfaction">
+                    <a href="https://github.com/bimarakajati/Demand-Trend-Analysis-and-Transaction-Conversion-Rate-for-Providing-Better-Customer-Satisfaction">
                         <b>Demand Trend Analysis and Transaction Conversion Rate for Providing Better Customer Satisfaction</b>
                     </a>
                 </td>
@@ -95,7 +95,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/Indonesian-Severe-Food-and-Undernourishment-Population">
+                    <a href="https://github.com/bimarakajati/Indonesian-Severe-Food-and-Undernourishment-Population">
                         <b>Indonesian Severe Food and Undernourishment Population</b>
                     </a>
                 </td>
