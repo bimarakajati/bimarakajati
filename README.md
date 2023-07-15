@@ -105,10 +105,129 @@
     </table>
 </details>
 
+### Web projects
+
+<details>
+    <summary>Click me</summary>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td>
+                    <b>🎁 Projects</b>
+                </td>
+                <td>
+                    <b>📃 Description</b>
+                </td>
+                <td>
+                    <b>🌐 Link</b>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/SiDrone-Web">
+                        <b>SiDrone Web</b>
+                    </a>
+                </td>
+                <td>The SiDrone website is designed for a business that specializes in efficient and cost-effective land spraying using drone technology. It showcases the benefits of using drones for agricultural purposes and provides information on the services offered by SiDrone. The website also includes features such as a contact form for inquiries and a gallery to showcase successful projects and drone technology in action.</td>
+                <td>
+                    <a href="https://bimarakajati.github.io/SiDrone-Web/">
+                        <b>link</b>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Pemrograman-Web-Lanjut">
+                        <b>Rakarts Store</b>
+                    </a>
+                </td>
+                <td>The Rakarts Store is a website project for the Advanced Web Programming final exam. It is an e-commerce website where all purchased items are stored in a database. Additionally, it includes login features for both admins and general users. The admin login allows administrators to view all incoming orders.</td>
+                <td>
+                    <a href="https://bima.rf.gd/">
+                        <b>link</b>
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+### Desktop projects
+
+<details>
+    <summary>Click me</summary>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td>
+                    <b>🎁 Projects</b>
+                </td>
+                <td>
+                    <b>📃 Description</b>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/BashTravel">
+                        <b>BashTravel</b>
+                    </a>
+                </td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Bima-Book-Store">
+                        <b>Bima Book Store</b>
+                    </a>
+                </td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+### Mobile projects
+
+<details>
+    <summary>Click me</summary>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td>
+                    <b>🎁 Projects</b>
+                </td>
+                <td>
+                    <b>📃 Description</b>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/GoWisata-Semarang">
+                        <b>GoWisata Semarang</b>
+                    </a>
+                </td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/ProjectPPB-Akhir">
+                        <b>Bima Education</b>
+                    </a>
+                </td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
 ### Where to find me
 
-<!-- * Personal website: [https://bimarakajati.github.io/](https://bimarakajati.github.io/)
-* Reach me on Telegram: [@socialdistance](https://t.me/socialdistance) -->
 <p>
     <a href="https://www.linkedin.com/in/bimarakajati">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
@@ -119,13 +238,4 @@
     <a href="https://www.instagram.com/bimarakajati/">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
     </a>
-    <!-- <a href="https://www.youtube.com/@mokkapps">
-        <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
-    </a>
-    <a href="https://medium.com/@MokkappsDev">
-        <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-    </a>
-    <a href="https://dev.to/mokkapps">
-        <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
-    </a> -->
 </p>
