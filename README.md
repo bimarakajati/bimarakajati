@@ -44,6 +44,14 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/bimarakajati/Webpage-Screenshot-App">
+                    <b>Webpage Screenshot App</b>
+                </a>
+            </td>
+            <td>Simple webpage screenshot app built with streamlit, and selenium.</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio">
                     <b>Telegram Spotify Bio</b>
                 </a>
