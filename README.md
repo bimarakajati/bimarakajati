@@ -6,60 +6,63 @@
 
 ### Python projects
 
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td>
-                <b>🎁 Projects</b>
-            </td>
-            <td>
-                <b>📃 Description</b>
-            </td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API">
-                    <b>WasteTrack Chatbot</b>
-                </a>
-            </td>
-            <td>The project is a chatbot implemented using Flask and Python, incorporating a pre-trained model. The chatbot is designed to interact with users, analyze their input, and generate relevant responses using the trained model.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/bimarakajati/WasteTrack-YOLO-API">
-                    <b>WasteTrack YOLO</b>
-                </a>
-            </td>
-            <td>The waste classification project is designed to classify waste items as either organic or inorganic using the YOLO (You Only Look Once) object detection algorithm. The project is implemented in Python and utilizes the Flask web framework to create a user-friendly interface for users to interact with.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/bimarakajati/WasteTrack-Time-Series-API">
-                    <b>WasteTrack Time-Series</b>
-                </a>
-            </td>
-            <td>The WasteTrack Time-Series project is a web application developed to track and visualize waste production over time. It uses Flask, a Python web framework, to build the backend server and provides a user-friendly interface to interact with the waste data.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/bimarakajati/Webpage-Screenshot-App">
-                    <b>Webpage Screenshot App</b>
-                </a>
-            </td>
-            <td>Simple webpage screenshot app built with streamlit, and selenium.</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio">
-                    <b>Telegram Spotify Bio</b>
-                </a>
-            </td>
-            <td>Update your bio with the song you're listening to on spotify!</td>
-        </tr>
-    </tbody>
-</table>
+<details>
+    <summary>Click me</summary>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td>
+                    <b>🎁 Projects</b>
+                </td>
+                <td>
+                    <b>📃 Description</b>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API">
+                        <b>WasteTrack Chatbot</b>
+                    </a>
+                </td>
+                <td>The project is a chatbot implemented using Flask and Python, incorporating a pre-trained model. The chatbot is designed to interact with users, analyze their input, and generate relevant responses using the trained model.</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/WasteTrack-YOLO-API">
+                        <b>WasteTrack YOLO</b>
+                    </a>
+                </td>
+                <td>The waste classification project is designed to classify waste items as either organic or inorganic using the YOLO (You Only Look Once) object detection algorithm. The project is implemented in Python and utilizes the Flask web framework to create a user-friendly interface for users to interact with.</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/WasteTrack-Time-Series-API">
+                        <b>WasteTrack Time-Series</b>
+                    </a>
+                </td>
+                <td>The WasteTrack Time-Series project is a web application developed to track and visualize waste production over time. It uses Flask, a Python web framework, to build the backend server and provides a user-friendly interface to interact with the waste data.</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Webpage-Screenshot-App">
+                        <b>Webpage Screenshot App</b>
+                    </a>
+                </td>
+                <td>Simple webpage screenshot app built with streamlit, and selenium.</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio">
+                        <b>Telegram Spotify Bio</b>
+                    </a>
+                </td>
+                <td>Update your bio with the song you're listening to on spotify!</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
 
 ### Data projects
 
