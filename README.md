@@ -143,7 +143,7 @@
                 </td>
                 <td>The SiDrone website is designed for a business that specializes in efficient and cost-effective land spraying using drone technology. It showcases the benefits of using drones for agricultural purposes and provides information on the services offered by SiDrone. The website also includes features such as a contact form for inquiries and a gallery to showcase successful projects and drone technology in action.</td>
                 <td>
-                    <a href="https://bimarakajati.github.io/SiDrone-Web/">
+                    <a href="https://sidrone.id/">
                         <b>link</b>
                     </a>
                 </td>
