@@ -150,13 +150,13 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Pemrograman-Web-Lanjut">
+                    <a href="https://github.com/bimarakajati/Rakarts-Store">
                         <b>Rakarts Store</b>
                     </a>
                 </td>
                 <td>The Rakarts Store is a website project for the Advanced Web Programming final exam. It is an e-commerce website where all purchased items are stored in a database. Additionally, it includes login features for both admins and general users. The admin login allows administrators to view all incoming orders.</td>
                 <td>
-                    <a href="https://bima.rf.gd/">
+                    <a href="https://rakarts.rf.gd/">
                         <b>link</b>
                     </a>
                 </td>
