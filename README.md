@@ -4,7 +4,7 @@
     <b>Semarang, Indonesia</b>.
 </p>
 
-### Python projects
+### Machine Learning projects
 
 <details>
     <summary>Click me</summary>
@@ -20,6 +20,22 @@
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Nusacular">
+                        <b>Nusacular</b>
+                    </a>
+                </td>
+                <td>This project aims to develop a system capable of detecting regional languages or dialects from text. We will collect a dataset containing text in various regional languages or dialects and train machine learning models to recognize and classify them.</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Fresh-or-Stale-Detection">
+                        <b>Fresh or Stale Detection</b>
+                    </a>
+                </td>
+                <td>This repository contains a Fresh or Stale Detection application that uses the K-Nearest Neighbors (KNN) algorithm to classify fruits and vegetables.</td>
+            </tr>
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API">
@@ -43,22 +59,6 @@
                     </a>
                 </td>
                 <td>The WasteTrack Time-Series project is a web application developed to track and visualize waste production over time. It uses Flask, a Python web framework, to build the backend server and provides a user-friendly interface to interact with the waste data.</td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/bimarakajati/Webpage-Screenshot-App">
-                        <b>Webpage Screenshot App</b>
-                    </a>
-                </td>
-                <td>Simple webpage screenshot app built with streamlit, and selenium.</td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio">
-                        <b>Telegram Spotify Bio</b>
-                    </a>
-                </td>
-                <td>Update your bio with the song you're listening to on spotify!</td>
             </tr>
         </tbody>
     </table>
@@ -111,6 +111,50 @@
                     </a>
                 </td>
                 <td>My project focuses on the Indonesian Severe Food and Undernourishment Population, utilizing the analysis of data from the World Development Indicators (WDI) specifically related to the healthcare sector between 2015 and 2019. The objective of this project is to examine the prevalence of severe food insecurity and undernourishment in Indonesia during this time period and gain insights into the challenges faced by the population in accessing adequate nutrition.</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+### Python projects
+
+<details>
+    <summary>Click me</summary>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td>
+                    <b>🎁 Projects</b>
+                </td>
+                <td>
+                    <b>📃 Description</b>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/MyAnimeList-Scraper">
+                        <b>MyAnimeList Scraper</b>
+                    </a>
+                </td>
+                <td>This is a Scrapy project that is designed to scrape the top anime from MyAnimeList. The scraper extracts anime titles, scores, episode count, aired dates, and user counts.</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Webpage-Screenshot-App">
+                        <b>Webpage Screenshot App</b>
+                    </a>
+                </td>
+                <td>Simple webpage screenshot app built with streamlit, and selenium.</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio">
+                        <b>Telegram Spotify Bio</b>
+                    </a>
+                </td>
+                <td>Update your bio with the song you're listening to on spotify!</td>
             </tr>
         </tbody>
     </table>
