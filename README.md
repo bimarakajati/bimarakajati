@@ -112,6 +112,14 @@
                 </td>
                 <td>My project focuses on the Indonesian Severe Food and Undernourishment Population, utilizing the analysis of data from the World Development Indicators (WDI) specifically related to the healthcare sector between 2015 and 2019. The objective of this project is to examine the prevalence of severe food insecurity and undernourishment in Indonesia during this time period and gain insights into the challenges faced by the population in accessing adequate nutrition.</td>
             </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/MyAnimeList-Text-Mining-and-Analysis">
+                        <b>MyAnimeList Text Mining and Analysis</b>
+                    </a>
+                </td>
+                <td>This repository contains a text mining and analysis project focused on the anime titled "Jujutsu Kaisen." The primary goal of this project is to analyze and gain insights from user reviews on MyAnimeList (MAL) related to "Jujutsu Kaisen".</td>
+            </tr>
         </tbody>
     </table>
 </details>
