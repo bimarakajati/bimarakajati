@@ -1,11 +1,14 @@
-### Hello world! 👋
-
-<p>Welcome to my page! </br> I'm Bima, Data Scientist from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" />
-    <b>Semarang, Indonesia</b>.
+### 👋 Hello world!
+<p>
+    Welcome to my Github page!</br> 
+    I'm Bima, a data scientist from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" /> <b>Indonesia</b>.</br>
+    I'm passionate about data analytics, data science, and machine learning.</br>
+    Feel free to explore my repositories and projects below!
 </p>
 
-### Machine Learning projects
+<hr>
 
+### 🤖 Machine Learning projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -22,7 +25,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Nusacular">
+                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
                         <b>Nusacular</b>
                     </a>
                 </td>
@@ -30,7 +33,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Fresh-or-Stale-Detection">
+                    <a href="https://github.com/bimarakajati/Fresh-or-Stale-Detection" target="_blank">
                         <b>Fresh or Stale Detection</b>
                     </a>
                 </td>
@@ -38,7 +41,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API">
+                    <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API" target="_blank">
                         <b>WasteTrack Chatbot</b>
                     </a>
                 </td>
@@ -46,7 +49,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/WasteTrack-YOLO-API">
+                    <a href="https://github.com/bimarakajati/WasteTrack-YOLO-API" target="_blank">
                         <b>WasteTrack YOLO</b>
                     </a>
                 </td>
@@ -54,7 +57,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/WasteTrack-Time-Series-API">
+                    <a href="https://github.com/bimarakajati/WasteTrack-Time-Series-API" target="_blank">
                         <b>WasteTrack Time-Series</b>
                     </a>
                 </td>
@@ -64,8 +67,7 @@
     </table>
 </details>
 
-### Data projects
-
+### 📊 Data projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -82,7 +84,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Annual-People-Analytics-Report">
+                    <a href="https://github.com/bimarakajati/Annual-People-Analytics-Report" target="_blank">
                         <b>Annual People Analytics Report</b>
                     </a>
                 </td>
@@ -90,7 +92,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Cost-Effectiveness-Analysis-of-Employee-Payroll-Scheme">
+                    <a href="https://github.com/bimarakajati/Cost-Effectiveness-Analysis-of-Employee-Payroll-Scheme" target="_blank">
                         <b>Cost Effectiveness Analysis of Employee Payroll Scheme</b>
                     </a>
                 </td>
@@ -98,7 +100,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Demand-Trend-Analysis-and-Transaction-Conversion-Rate-for-Providing-Better-Customer-Satisfaction">
+                    <a href="https://github.com/bimarakajati/Demand-Trend-Analysis-and-Transaction-Conversion-Rate-for-Providing-Better-Customer-Satisfaction" target="_blank">
                         <b>Demand Trend Analysis and Transaction Conversion Rate for Providing Better Customer Satisfaction</b>
                     </a>
                 </td>
@@ -106,7 +108,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Indonesian-Severe-Food-and-Undernourishment-Population">
+                    <a href="https://github.com/bimarakajati/Indonesian-Severe-Food-and-Undernourishment-Population" target="_blank">
                         <b>Indonesian Severe Food and Undernourishment Population</b>
                     </a>
                 </td>
@@ -114,7 +116,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/MyAnimeList-Text-Mining-and-Analysis">
+                    <a href="https://github.com/bimarakajati/MyAnimeList-Text-Mining-and-Analysis" target="_blank">
                         <b>MyAnimeList Text Mining and Analysis</b>
                     </a>
                 </td>
@@ -124,8 +126,7 @@
     </table>
 </details>
 
-### Python projects
-
+### 🐍 Python projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -142,7 +143,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/MyAnimeList-Scraper">
+                    <a href="https://github.com/bimarakajati/MyAnimeList-Scraper" target="_blank">
                         <b>MyAnimeList Scraper</b>
                     </a>
                 </td>
@@ -150,7 +151,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Webpage-Screenshot-App">
+                    <a href="https://github.com/bimarakajati/Webpage-Screenshot-App" target="_blank">
                         <b>Webpage Screenshot App</b>
                     </a>
                 </td>
@@ -158,7 +159,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio">
+                    <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio" target="_blank">
                         <b>Telegram Spotify Bio</b>
                     </a>
                 </td>
@@ -168,8 +169,7 @@
     </table>
 </details>
 
-### Web projects
-
+### 🌐 Web projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -189,36 +189,35 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/SiDrone-Web">
+                    <a href="https://github.com/bimarakajati/SiDrone-Web" target="_blank">
                         <b>SiDrone Web</b>
                     </a>
                 </td>
                 <td>The SiDrone website is designed for a business that specializes in efficient and cost-effective land spraying using drone technology. It showcases the benefits of using drones for agricultural purposes and provides information on the services offered by SiDrone. The website also includes features such as a contact form for inquiries and a gallery to showcase successful projects and drone technology in action.</td>
                 <td>
-                    <a href="https://sidrone.id/">
+                    <a href="https://sidrone.id/" target="_blank">
                         <b>link</b>
                     </a>
                 </td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Rakarts-Store">
+                    <a href="https://github.com/bimarakajati/Rakarts-Store" target="_blank">
                         <b>Rakarts Store</b>
                     </a>
                 </td>
                 <td>The Rakarts Store is a website project for the Advanced Web Programming final exam. It is an e-commerce website where all purchased items are stored in a database. Additionally, it includes login features for both admins and general users. The admin login allows administrators to view all incoming orders.</td>
                 <td>
-                    <a href="https://rakarts.rf.gd/">
+                    <a href="https://rakarts.rf.gd/" target="_blank">
                         <b>link</b>
                     </a>
                 </td>
-            </tr>
+            </tr> -->
         </tbody>
     </table>
 </details>
 
-### Desktop projects
-
+### 💻 Desktop projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -235,7 +234,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/BashTravel">
+                    <a href="https://github.com/bimarakajati/BashTravel" target="_blank">
                         <b>BashTravel</b>
                     </a>
                 </td>
@@ -243,7 +242,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Bima-Book-Store">
+                    <a href="https://github.com/bimarakajati/Bima-Book-Store" target="_blank">
                         <b>Bima Book Store</b>
                     </a>
                 </td>
@@ -253,8 +252,7 @@
     </table>
 </details>
 
-### Mobile projects
-
+### 📱 Mobile projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -271,7 +269,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/GoWisata-Semarang">
+                    <a href="https://github.com/bimarakajati/GoWisata-Semarang" target="_blank">
                         <b>GoWisata Semarang</b>
                     </a>
                 </td>
@@ -279,7 +277,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/ProjectPPB-Akhir">
+                    <a href="https://github.com/bimarakajati/ProjectPPB-Akhir" target="_blank">
                         <b>Bima Education</b>
                     </a>
                 </td>
@@ -289,16 +287,22 @@
     </table>
 </details>
 
-### Where to find me
+### 🏆 Github Stats
+<details>
+    <summary>Click me</summary>
+        <img src="https://github-readme-stats.vercel.app/api?username=bimarakajati&show_icons=true&theme=merko&card_width=467" alt="bimarakajati" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimarakajati&layout=compact&theme=merko&card_width=467" alt="bimarakajati" />
+</details>
 
+### 👨‍💼 Where to find me
 <p>
-    <a href="https://www.linkedin.com/in/bimarakajati">
+    <a href="https://www.linkedin.com/in/bimarakajati" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
-    <a href="https://www.twitter.com/bimarakajati">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+    <a href="https://t.me/socialdistance" target="_blank">
+        <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25>
     </a>
-    <a href="https://www.instagram.com/bimarakajati/">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    <a href="https://www.twitter.com/bimarakajati" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a>
 </p>
