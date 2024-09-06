@@ -1,7 +1,7 @@
 ### 👋 Hello world!
 <p>
     Welcome to my Github page!</br> 
-    I'm Bima, a data scientist from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" /> <b>Indonesia</b>.</br>
+    I'm Bima, a junior data scientist from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" /> <b>Indonesia</b>.</br>
     I'm passionate about data analytics, data science, and machine learning.</br>
     Feel free to explore my repositories and projects below!
 </p>
@@ -33,14 +33,6 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Fresh-or-Stale-Detection" target="_blank">
-                        <b>Fresh or Stale Detection</b>
-                    </a>
-                </td>
-                <td>This repository contains a Fresh or Stale Detection application that uses the K-Nearest Neighbors (KNN) algorithm to classify fruits and vegetables.</td>
-            </tr>
-            <tr>
-                <td>
                     <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API" target="_blank">
                         <b>WasteTrack Chatbot</b>
                     </a>
@@ -62,6 +54,14 @@
                     </a>
                 </td>
                 <td>The WasteTrack Time-Series project is a web application developed to track and visualize waste production over time. It uses Flask, a Python web framework, to build the backend server and provides a user-friendly interface to interact with the waste data.</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Fresh-or-Stale-Detection" target="_blank">
+                        <b>Fresh or Stale Detection</b>
+                    </a>
+                </td>
+                <td>This repository contains a Fresh or Stale Detection application that uses the K-Nearest Neighbors (KNN) algorithm to classify fruits and vegetables.</td>
             </tr>
         </tbody>
     </table>
@@ -238,7 +238,9 @@
                         <b>BashTravel</b>
                     </a>
                 </td>
-                <td>-</td>
+                <td>
+                    A desktop application for managing travel bookings. This application is built using Java and MySQL for the database.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -246,7 +248,9 @@
                         <b>Bima Book Store</b>
                     </a>
                 </td>
-                <td>-</td>
+                <td>
+                    A desktop application for managing a bookstore. This application is built using Java and MySQL for the database.
+                </td>
             </tr>
         </tbody>
     </table>
@@ -273,7 +277,9 @@
                         <b>GoWisata Semarang</b>
                     </a>
                 </td>
-                <td>-</td>
+                <td>
+                    A mobile application for exploring tourist attractions in Semarang. This application is built using Java.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -281,7 +287,9 @@
                         <b>Bima Education</b>
                     </a>
                 </td>
-                <td>-</td>
+                <td>
+                    Bima Education is a comprehensive learning platform that provides resources and tutorials for programming languages such as Python, C++, and more. This application is built using Java.
+                </td>
             </tr>
         </tbody>
     </table>
@@ -294,15 +302,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimarakajati&layout=compact&theme=merko&card_width=467" alt="bimarakajati" />
 </details>
 
-### 👨‍💼 Where to find me
-<p>
-    <a href="https://www.linkedin.com/in/bimarakajati" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-    </a>
-    <a href="https://t.me/socialdistance" target="_blank">
-        <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25>
-    </a>
-    <a href="https://www.twitter.com/bimarakajati" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-    </a>
-</p>
+### 👨‍💼 Contact
+<details>
+    <summary>Click me</summary>
+        <a href="mailto:bimandugal@gmail.com"
+        target="_blank">
+            <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+        </a>
+        <a href="https://www.linkedin.com/in/bimarakajati" target="_blank">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+        </a>
+</details>
