@@ -29,7 +29,9 @@
                         <b>Nusacular</b>
                     </a>
                 </td>
-                <td>This project aims to develop a system capable of detecting regional languages or dialects from text. We will collect a dataset containing text in various regional languages or dialects and train machine learning models to recognize and classify them.</td>
+                <td>
+                    This project aims to develop a system capable of detecting regional languages or dialects from text. We will collect a dataset containing text in various regional languages or dialects and train machine learning models to recognize and classify them.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -37,7 +39,9 @@
                         <b>WasteTrack Chatbot</b>
                     </a>
                 </td>
-                <td>The project is a chatbot implemented using Flask and Python, incorporating a pre-trained model. The chatbot is designed to interact with users, analyze their input, and generate relevant responses using the trained model.</td>
+                <td>
+                    The project is a chatbot implemented using Flask and Python, incorporating a pre-trained model. The chatbot is designed to interact with users, analyze their input, and generate relevant responses using the trained model.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -45,7 +49,9 @@
                         <b>WasteTrack YOLO</b>
                     </a>
                 </td>
-                <td>The waste classification project is designed to classify waste items as either organic or inorganic using the YOLO (You Only Look Once) object detection algorithm. The project is implemented in Python and utilizes the Flask web framework to create a user-friendly interface for users to interact with.</td>
+                <td>
+                    The waste classification project is designed to classify waste items as either organic or inorganic using the YOLO (You Only Look Once) object detection algorithm. The project is implemented in Python and utilizes the Flask web framework to create a user-friendly interface for users to interact with.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -53,7 +59,9 @@
                         <b>WasteTrack Time-Series</b>
                     </a>
                 </td>
-                <td>The WasteTrack Time-Series project is a web application developed to track and visualize waste production over time. It uses Flask, a Python web framework, to build the backend server and provides a user-friendly interface to interact with the waste data.</td>
+                <td>
+                    The WasteTrack Time-Series project is a web application developed to track and visualize waste production over time. It uses Flask, a Python web framework, to build the backend server and provides a user-friendly interface to interact with the waste data.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -61,7 +69,9 @@
                         <b>Fresh or Stale Detection</b>
                     </a>
                 </td>
-                <td>This repository contains a Fresh or Stale Detection application that uses the K-Nearest Neighbors (KNN) algorithm to classify fruits and vegetables.</td>
+                <td>
+                    This repository contains a Fresh or Stale Detection application that uses the K-Nearest Neighbors (KNN) algorithm to classify fruits and vegetables.
+                </td>
             </tr>
         </tbody>
     </table>
@@ -88,7 +98,9 @@
                         <b>Annual People Analytics Report</b>
                     </a>
                 </td>
-                <td>As a People Analytics Associate at The Bloom Company, it is my responsibility to assess the effectiveness of our employee retention and hiring initiatives. In our Annual People Analytics Report for 2011, we aim to provide comprehensive insights on the success of our efforts over the past two years (2010-2011). This includes evaluating the impact of new tenure-based reward programs, analyzing historical data for more accurate manpower planning, and assessing the inclusivity of our hiring practices in terms of age and gender distributions. Our objective is to determine whether these initiatives have achieved the desired outcomes and inform future decision-making strategies.</td>
+                <td>
+                    As a People Analytics Associate at The Bloom Company, it is my responsibility to assess the effectiveness of our employee retention and hiring initiatives. In our Annual People Analytics Report for 2011, we aim to provide comprehensive insights on the success of our efforts over the past two years (2010-2011). This includes evaluating the impact of new tenure-based reward programs, analyzing historical data for more accurate manpower planning, and assessing the inclusivity of our hiring practices in terms of age and gender distributions. Our objective is to determine whether these initiatives have achieved the desired outcomes and inform future decision-making strategies.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -96,7 +108,9 @@
                         <b>Cost Effectiveness Analysis of Employee Payroll Scheme</b>
                     </a>
                 </td>
-                <td>As a Data Analyst at The Bloom Company, I am tasked with assessing the cost-effectiveness of our current payroll scheme for Bloomers. With over 35,000 users and 1,400 Bloomers, our fast-growing SaaS company operates across multiple cities in Indonesia. In our 7th year, I am working closely with the management team to analyze the salary per hour for Bloomers in each office branch, considering the number of employees per month. This analysis will help us make informed decisions about our payroll allocation and ensure a fair and efficient compensation system.</td>
+                <td>
+                    As a Data Analyst at The Bloom Company, I am tasked with assessing the cost-effectiveness of our current payroll scheme for Bloomers. With over 35,000 users and 1,400 Bloomers, our fast-growing SaaS company operates across multiple cities in Indonesia. In our 7th year, I am working closely with the management team to analyze the salary per hour for Bloomers in each office branch, considering the number of employees per month. This analysis will help us make informed decisions about our payroll allocation and ensure a fair and efficient compensation system.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -104,7 +118,9 @@
                         <b>Demand Trend Analysis and Transaction Conversion Rate for Providing Better Customer Satisfaction</b>
                     </a>
                 </td>
-                <td>Never Forget Company is a prominent B2B Marketplace Platform in Indonesia, connecting buyers and sellers in various industries. Never Forget Company needs several metrics and analysis that will be used to measure their transaction performance. This repository contains insights and solutions for Never Forget Company, following the instructions given.</td>
+                <td>
+                    Never Forget Company is a prominent B2B Marketplace Platform in Indonesia, connecting buyers and sellers in various industries. Never Forget Company needs several metrics and analysis that will be used to measure their transaction performance. This repository contains insights and solutions for Never Forget Company, following the instructions given.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -112,7 +128,9 @@
                         <b>Indonesian Severe Food and Undernourishment Population</b>
                     </a>
                 </td>
-                <td>My project focuses on the Indonesian Severe Food and Undernourishment Population, utilizing the analysis of data from the World Development Indicators (WDI) specifically related to the healthcare sector between 2015 and 2019. The objective of this project is to examine the prevalence of severe food insecurity and undernourishment in Indonesia during this time period and gain insights into the challenges faced by the population in accessing adequate nutrition.</td>
+                <td>
+                    My project focuses on the Indonesian Severe Food and Undernourishment Population, utilizing the analysis of data from the World Development Indicators (WDI) specifically related to the healthcare sector between 2015 and 2019. The objective of this project is to examine the prevalence of severe food insecurity and undernourishment in Indonesia during this time period and gain insights into the challenges faced by the population in accessing adequate nutrition.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -120,7 +138,9 @@
                         <b>MyAnimeList Text Mining and Analysis</b>
                     </a>
                 </td>
-                <td>This repository contains a text mining and analysis project focused on the anime titled "Jujutsu Kaisen." The primary goal of this project is to analyze and gain insights from user reviews on MyAnimeList (MAL) related to "Jujutsu Kaisen".</td>
+                <td>
+                    This repository contains a text mining and analysis project focused on the anime titled "Jujutsu Kaisen." The primary goal of this project is to analyze and gain insights from user reviews on MyAnimeList (MAL) related to "Jujutsu Kaisen".
+                </td>
             </tr>
         </tbody>
     </table>
@@ -147,7 +167,9 @@
                         <b>MyAnimeList Scraper</b>
                     </a>
                 </td>
-                <td>This is a Scrapy project that is designed to scrape the top anime from MyAnimeList. The scraper extracts anime titles, scores, episode count, aired dates, and user counts.</td>
+                <td>
+                    This is a Scrapy project that is designed to scrape the top anime from MyAnimeList. The scraper extracts anime titles, scores, episode count, aired dates, and user counts.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -155,7 +177,9 @@
                         <b>Webpage Screenshot App</b>
                     </a>
                 </td>
-                <td>Simple webpage screenshot app built with streamlit, and selenium.</td>
+                <td>
+                    Simple webpage screenshot app built with streamlit, and selenium.
+                </td>
             </tr>
             <tr>
                 <td>
@@ -163,7 +187,9 @@
                         <b>Telegram Spotify Bio</b>
                     </a>
                 </td>
-                <td>Update your bio with the song you're listening to on spotify!</td>
+                <td>
+                    Update your bio with the song you're listening to on spotify!
+                </td>
             </tr>
         </tbody>
     </table>
@@ -305,8 +331,7 @@
 ### 👨‍💼 Contact
 <details>
     <summary>Click me</summary>
-        <a href="mailto:bimandugal@gmail.com"
-        target="_blank">
+        <a href="mailto:bimandugal@gmail.com"target="_blank">
             <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
         </a>
         <a href="https://www.linkedin.com/in/bimarakajati" target="_blank">
