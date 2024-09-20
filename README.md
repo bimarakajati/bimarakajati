@@ -105,6 +105,16 @@
             </tr>
             <tr>
                 <td>
+                    <a href="https://github.com/bimarakajati/Analisis-Sentimen-Debat-Capres-2024" target="_blank">
+                        <b>Sentiment Analysis of Presidential Debate 2024</b>
+                    </a>
+                </td>
+                <td>
+                    This repository contains a sentiment analysis of the 2024 Indonesian presidential debate (debat capres). The approach used includes several stages, ranging from data scraping, data processing, to machine learning modeling.
+                </td>
+            </tr>
+            <tr>
+                <td>
                     <a href="https://github.com/bimarakajati/Gemastik-SiPalingInsight" target="_blank">
                         <b>Prediction of Indonesia's Non-Oil and Gas Export Revenue Using Time Series with Vector Autoregressive (VAR)</b>
                     </a>
