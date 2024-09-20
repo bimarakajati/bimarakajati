@@ -95,6 +95,16 @@
             </tr>
             <tr>
                 <td>
+                    <a href="https://github.com/bimarakajati/Tesla-Stock-Prediction" target="_blank">
+                        <b>Tesla Stock Prediction Using LSTM</b>
+                    </a>
+                </td>
+                <td>
+                    This project utilizes a Long Short-Term Memory (LSTM) model to predict Tesla (TSLA) stock prices based on historical data. The dataset contains daily stock prices and trading volume from Yahoo Finance, and the project aims to model the future prices using deep learning techniques.
+                </td>
+            </tr>
+            <tr>
+                <td>
                     <a href="https://github.com/bimarakajati/Gemastik-SiPalingInsight" target="_blank">
                         <b>Prediction of Indonesia's Non-Oil and Gas Export Revenue Using Time Series with Vector Autoregressive (VAR)</b>
                     </a>
