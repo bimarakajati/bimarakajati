@@ -85,6 +85,26 @@
             </tr>
             <tr>
                 <td>
+                    <a href="https://github.com/bimarakajati/Heart-Failure-Prediction" target="_blank">
+                        <b>Heart Failure Prediction</b>
+                    </a>
+                </td>
+                <td>
+                    This repository focuses on predicting heart failure using the Hungarian dataset, employing machine learning techniques. Moreover, the model is deployed on Streamlit for easy user interaction.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Gemastik-SiPalingInsight" target="_blank">
+                        <b>Prediction of Indonesia's Non-Oil and Gas Export Revenue Using Time Series with Vector Autoregressive (VAR)</b>
+                    </a>
+                </td>
+                <td>
+                    This project aims to predict Indonesia's revenue and provide recommendations for non-oil and gas export commodities in 2024 using time series with Vector Autoregressive (VAR). The project is part of the Gemastik 2023 event.
+                </td>
+            </tr>
+            <tr>
+                <td>
                     <a href="https://github.com/bimarakajati/Fresh-or-Stale-Detection" target="_blank">
                         <b>Fresh or Stale Detection</b>
                     </a>
@@ -150,6 +170,16 @@
                 </td>
                 <td>
                     My project focuses on the Indonesian Severe Food and Undernourishment Population, utilizing the analysis of data from the World Development Indicators (WDI) specifically related to the healthcare sector between 2015 and 2019. The objective of this project is to examine the prevalence of severe food insecurity and undernourishment in Indonesia during this time period and gain insights into the challenges faced by the population in accessing adequate nutrition.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Healthkathon-BPJS-HealInsights" target="_blank">
+                        <b>Healthkathon 2.0 BPJS Kesehatan</b>
+                    </a>
+                </td>
+                <td>
+                    A team project that aims to provide insights into the health data of BPJS Kesehatan members. The project focuses on analyzing the data to identify patterns and trends that can be used to improve the quality of healthcare services provided by BPJS Kesehatan.
                 </td>
             </tr>
             <tr>
