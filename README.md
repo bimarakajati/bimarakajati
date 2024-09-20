@@ -35,6 +35,26 @@
             </tr>
             <tr>
                 <td>
+                    <a href="https://github.com/bimarakajati/One-Piece-Character-Classifier-Using-Transfer-Learning" target="_blank">
+                        <b>One Piece Character Classifier Using Transfer Learning</b>
+                    </a>
+                </td>
+                <td>
+                    This project implements a character classifier for the popular anime One Piece using transfer learning techniques. The classifier can identify 18 different characters from the series with high accuracy.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/8-Ball-Pool-Sentiment-Analysis" target="_blank">
+                        <b>8 Ball Pool Sentiment Analysis</b>
+                    </a>
+                </td>
+                <td>
+                    This project aims to classify the sentiment (negative, neutral, positive) of 8 Ball Pool game reviews on the Play Store.
+                </td>
+            </tr>
+            <tr>
+                <td>
                     <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API" target="_blank">
                         <b>WasteTrack Chatbot</b>
                     </a>
