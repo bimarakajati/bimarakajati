@@ -35,8 +35,8 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/One-Piece-Character-Classifier-Using-Transfer-Learning" target="_blank">
-                        <b>One Piece Character Classifier Using Transfer Learning</b>
+                    <a href="https://github.com/bimarakajati/One-Piece-Character-Classifier-using-Transfer-Learning" target="_blank">
+                        <b>One Piece Character Classifier using Transfer Learning</b>
                     </a>
                 </td>
                 <td>
@@ -96,7 +96,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Tesla-Stock-Prediction" target="_blank">
-                        <b>Tesla Stock Prediction Using LSTM</b>
+                        <b>Tesla Stock Prediction using LSTM</b>
                     </a>
                 </td>
                 <td>
@@ -116,7 +116,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Gemastik-SiPalingInsight" target="_blank">
-                        <b>Prediction of Indonesia's Non-Oil and Gas Export Revenue Using Time Series with Vector Autoregressive (VAR)</b>
+                        <b>Prediction of Indonesia's Non-Oil and Gas Export Revenue using Time Series with Vector Autoregressive (VAR)</b>
                     </a>
                 </td>
                 <td>
@@ -331,7 +331,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/BashTravel" target="_blank">
-                        <b>BashTravel</b>
+                        <b>BASH Travel</b>
                     </a>
                 </td>
                 <td>
