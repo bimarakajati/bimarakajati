@@ -394,8 +394,9 @@
 ### 🏆 Github Stats
 <details>
     <summary>Click me</summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=bimarakajati&show_icons=true&theme=merko&card_width=467" alt="bimarakajati" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimarakajati&layout=compact&theme=merko&card_width=467" alt="bimarakajati" />
+        <img src="https://github-readme-stats.vercel.app/api?username=bimarakajati&show_icons=true&theme=merko&card_width=467" alt="Github Stats" /><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimarakajati&layout=compact&theme=merko&card_width=467" alt="Most Used Languages" /><br>
+        <img src="https://komarev.com/ghpvc/?username=bimarakajati&&style=flat-square" alt="Profile Views Counter" />
 </details>
 
 ### 👨‍💼 Contact
