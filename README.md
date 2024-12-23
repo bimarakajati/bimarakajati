@@ -55,6 +55,16 @@
             </tr>
             <tr>
                 <td>
+                    <a href="https://github.com/bimarakajati/Student-Performance-Prediction" target="_blank">
+                        <b>Student Performance Prediction</b>
+                    </a>
+                </td>
+                <td>
+                    This project involves analyzing and predicting student performance based on various factors such as study hours, previous scores, sleep hours, and extracurricular activities.
+                </td>
+            </tr>
+            <tr>
+                <td>
                     <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API" target="_blank">
                         <b>WasteTrack Chatbot</b>
                     </a>
