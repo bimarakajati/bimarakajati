@@ -8,7 +8,7 @@
 
 <hr>
 
-### 🤖 Machine Learning projects
+### 🤖 Machine Learning Projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -41,16 +41,6 @@
                 </td>
                 <td>
                     This project analyzes anime recommendation data using two approaches: Content-Based Filtering with K-Nearest Neighbors (KNN) and Collaborative Filtering with the RecommenderNet model.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
-                        <b>Bike Sharing Data Analysis</b>
-                    </a>
-                </td>
-                <td>
-                    This project aims to analyze bike sharing data from the UCI Machine Learning Repository. The analysis is conducted to answer several business questions related to factors that affect the number of bike rentals.
                 </td>
             </tr>
             <tr>
@@ -187,7 +177,7 @@
     </table>
 </details>
 
-### 📊 Data projects
+### 📊 Data Analysis Projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -202,6 +192,16 @@
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                        <b>Bike Sharing Data Analysis</b>
+                    </a>
+                </td>
+                <td>
+                    This project aims to analyze bike sharing data from the UCI Machine Learning Repository. The analysis is conducted to answer several business questions related to factors that affect the number of bike rentals.
+                </td>
+            </tr>
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Annual-People-Analytics-Report" target="_blank">
@@ -256,7 +256,7 @@
     </table>
 </details>
 
-### 🐍 Python projects
+### 🐍 Python Projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -305,7 +305,7 @@
     </table>
 </details>
 
-### 🌐 Web projects
+### 🌐 Web Projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -353,7 +353,7 @@
     </table>
 </details>
 
-### 💻 Desktop projects
+### 💻 Desktop Projects
 <details>
     <summary>Click me</summary>
     <table>
@@ -392,7 +392,7 @@
     </table>
 </details>
 
-### 📱 Mobile projects
+### 📱 Mobile Projects
 <details>
     <summary>Click me</summary>
     <table>
