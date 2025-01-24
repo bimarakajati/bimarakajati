@@ -35,6 +35,26 @@
             </tr>
             <tr>
                 <td>
+                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                        <b>Anime Recommender System</b>
+                    </a>
+                </td>
+                <td>
+                    This project analyzes anime recommendation data using two approaches: Content-Based Filtering with K-Nearest Neighbors (KNN) and Collaborative Filtering with the RecommenderNet model.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                        <b>Bike Sharing Data Analysis</b>
+                    </a>
+                </td>
+                <td>
+                    This project aims to analyze bike sharing data from the UCI Machine Learning Repository. The analysis is conducted to answer several business questions related to factors that affect the number of bike rentals.
+                </td>
+            </tr>
+            <tr>
+                <td>
                     <a href="https://github.com/bimarakajati/One-Piece-Character-Classifier-using-Transfer-Learning" target="_blank">
                         <b>One Piece Character Classifier using Transfer Learning</b>
                     </a>
@@ -51,16 +71,6 @@
                 </td>
                 <td>
                     This project aims to classify the sentiment (negative, neutral, positive) of 8 Ball Pool game reviews on the Play Store.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/bimarakajati/Student-Performance-Prediction" target="_blank">
-                        <b>Student Performance Prediction</b>
-                    </a>
-                </td>
-                <td>
-                    This project involves analyzing and predicting student performance based on various factors such as study hours, previous scores, sleep hours, and extracurricular activities.
                 </td>
             </tr>
             <tr>
@@ -101,6 +111,26 @@
                 </td>
                 <td>
                     This repository focuses on predicting heart failure using the Hungarian dataset, employing machine learning techniques. Moreover, the model is deployed on Streamlit for easy user interaction.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                        <b>Student Performance Prediction</b>
+                    </a>
+                </td>
+                <td>
+                    This project involves analyzing and predicting student performance based on various factors such as study hours, previous scores, sleep hours, and extracurricular activities.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                        <b>Shop Customer Clustering and Classification</b>
+                    </a>
+                </td>
+                <td>
+                    This project analyzes shop customer data using clustering and classification techniques to uncover insights and predict customer segments.
                 </td>
             </tr>
             <tr>
