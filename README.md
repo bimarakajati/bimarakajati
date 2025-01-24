@@ -26,7 +26,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
-                        <b>Nusacular</b>
+                        <b>🇮🇩 Nusacular</b>
                     </a>
                 </td>
                 <td>
@@ -36,7 +36,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Anime-Recommender-System" target="_blank">
-                        <b>Anime Recommender System</b>
+                        <b>⛩️ Anime Recommender System</b>
                     </a>
                 </td>
                 <td>
@@ -46,7 +46,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/One-Piece-Character-Classifier-using-Transfer-Learning" target="_blank">
-                        <b>One Piece Character Classifier using Transfer Learning</b>
+                        <b>🏴‍☠️ One Piece Character Classifier using Transfer Learning</b>
                     </a>
                 </td>
                 <td>
@@ -56,7 +56,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/8-Ball-Pool-Sentiment-Analysis" target="_blank">
-                        <b>8 Ball Pool Sentiment Analysis</b>
+                        <b>🎱 8 Ball Pool Sentiment Analysis</b>
                     </a>
                 </td>
                 <td>
@@ -66,7 +66,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/WasteTrack-Chatbot-API" target="_blank">
-                        <b>WasteTrack Chatbot</b>
+                        <b>♻️ WasteTrack Chatbot</b>
                     </a>
                 </td>
                 <td>
@@ -76,7 +76,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/WasteTrack-YOLO-API" target="_blank">
-                        <b>WasteTrack YOLO</b>
+                        <b>♻️ WasteTrack YOLO</b>
                     </a>
                 </td>
                 <td>
@@ -86,7 +86,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/WasteTrack-Time-Series-API" target="_blank">
-                        <b>WasteTrack Time-Series</b>
+                        <b>♻️ WasteTrack Time-Series</b>
                     </a>
                 </td>
                 <td>
@@ -96,7 +96,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Heart-Failure-Prediction" target="_blank">
-                        <b>Heart Failure Prediction</b>
+                        <b>💔 Heart Failure Prediction</b>
                     </a>
                 </td>
                 <td>
@@ -106,7 +106,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Student-Performance-Prediction" target="_blank">
-                        <b>Student Performance Prediction</b>
+                        <b>👨🏻‍🎓 Student Performance Prediction</b>
                     </a>
                 </td>
                 <td>
@@ -116,7 +116,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Shop-Customer-Clustering-and-Classification" target="_blank">
-                        <b>Shop Customer Clustering and Classification</b>
+                        <b>🛍️ Shop Customer Clustering and Classification</b>
                     </a>
                 </td>
                 <td>
@@ -126,7 +126,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Tesla-Stock-Prediction" target="_blank">
-                        <b>Tesla Stock Prediction using LSTM</b>
+                        <b>🚗 Tesla Stock Prediction using LSTM</b>
                     </a>
                 </td>
                 <td>
@@ -136,7 +136,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Analisis-Sentimen-Debat-Capres-2024" target="_blank">
-                        <b>Sentiment Analysis of Presidential Debate 2024</b>
+                        <b>🏛️ Sentiment Analysis of Presidential Debate 2024</b>
                     </a>
                 </td>
                 <td>
@@ -146,7 +146,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Gemastik-SiPalingInsight" target="_blank">
-                        <b>Prediction of Indonesia's Non-Oil and Gas Export Revenue using Time Series with Vector Autoregressive (VAR)</b>
+                        <b>⛽ Prediction of Indonesia's Non-Oil and Gas Export Revenue using Time Series with Vector Autoregressive (VAR)</b>
                     </a>
                 </td>
                 <td>
@@ -156,7 +156,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Healthkathon-BPJS-HealInsights" target="_blank">
-                        <b>Healthkathon 2.0 BPJS Kesehatan</b>
+                        <b>🏥 Healthkathon 2.0 BPJS Kesehatan</b>
                     </a>
                 </td>
                 <td>
@@ -166,7 +166,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Fresh-or-Stale-Detection" target="_blank">
-                        <b>Fresh or Stale Detection</b>
+                        <b>🍎 Fresh or Stale Detection</b>
                     </a>
                 </td>
                 <td>
@@ -195,7 +195,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Bike-Sharing-Data-Analysis" target="_blank">
-                        <b>Bike Sharing Data Analysis</b>
+                        <b>🚲 Bike Sharing Data Analysis</b>
                     </a>
                 </td>
                 <td>
@@ -205,7 +205,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Annual-People-Analytics-Report" target="_blank">
-                        <b>Annual People Analytics Report</b>
+                        <b>👨‍💼 Annual People Analytics Report</b>
                     </a>
                 </td>
                 <td>
@@ -215,7 +215,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Cost-Effectiveness-Analysis-of-Employee-Payroll-Scheme" target="_blank">
-                        <b>Cost Effectiveness Analysis of Employee Payroll Scheme</b>
+                        <b>💸 Cost Effectiveness Analysis of Employee Payroll Scheme</b>
                     </a>
                 </td>
                 <td>
@@ -225,7 +225,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Demand-Trend-Analysis-and-Transaction-Conversion-Rate-for-Providing-Better-Customer-Satisfaction" target="_blank">
-                        <b>Demand Trend Analysis and Transaction Conversion Rate for Providing Better Customer Satisfaction</b>
+                        <b>💱 Demand Trend Analysis and Transaction Conversion Rate for Providing Better Customer Satisfaction</b>
                     </a>
                 </td>
                 <td>
@@ -235,7 +235,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Indonesian-Severe-Food-and-Undernourishment-Population" target="_blank">
-                        <b>Indonesian Severe Food and Undernourishment Population</b>
+                        <b>💚 Indonesian Severe Food and Undernourishment Population</b>
                     </a>
                 </td>
                 <td>
@@ -245,7 +245,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/MyAnimeList-Text-Mining-and-Analysis" target="_blank">
-                        <b>MyAnimeList Text Mining and Analysis</b>
+                        <b>🌸 MyAnimeList Text Mining and Analysis</b>
                     </a>
                 </td>
                 <td>
@@ -274,7 +274,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/MyAnimeList-Scraper" target="_blank">
-                        <b>MyAnimeList Scraper</b>
+                        <b>🍥 MyAnimeList Scraper</b>
                     </a>
                 </td>
                 <td>
@@ -284,7 +284,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Webpage-Screenshot-App" target="_blank">
-                        <b>Webpage Screenshot App</b>
+                        <b>📸 Webpage Screenshot App</b>
                     </a>
                 </td>
                 <td>
@@ -294,7 +294,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Telegram-Spotify-Bio" target="_blank">
-                        <b>Telegram Spotify Bio</b>
+                        <b>🟢 Telegram Spotify Bio</b>
                     </a>
                 </td>
                 <td>
@@ -326,7 +326,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/SiDrone-Web" target="_blank">
-                        <b>SiDrone Web</b>
+                        <b>🚁 SiDrone Web</b>
                     </a>
                 </td>
                 <td>The SiDrone website is designed for a business that specializes in efficient and cost-effective land spraying using drone technology. It showcases the benefits of using drones for agricultural purposes and provides information on the services offered by SiDrone. The website also includes features such as a contact form for inquiries and a gallery to showcase successful projects and drone technology in action.</td>
@@ -371,7 +371,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/BashTravel" target="_blank">
-                        <b>BASH Travel</b>
+                        <b>🚍 BASH Travel</b>
                     </a>
                 </td>
                 <td>
@@ -381,7 +381,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/Bima-Book-Store" target="_blank">
-                        <b>Bima Book Store</b>
+                        <b>📖 Bima Book Store</b>
                     </a>
                 </td>
                 <td>
@@ -410,7 +410,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/GoWisata-Semarang" target="_blank">
-                        <b>GoWisata Semarang</b>
+                        <b>🛣️ GoWisata Semarang</b>
                     </a>
                 </td>
                 <td>
@@ -420,7 +420,7 @@
             <tr>
                 <td>
                     <a href="https://github.com/bimarakajati/ProjectPPB-Akhir" target="_blank">
-                        <b>Bima Education</b>
+                        <b>💡 Bima Education</b>
                     </a>
                 </td>
                 <td>
