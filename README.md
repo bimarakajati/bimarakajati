@@ -35,7 +35,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                    <a href="https://github.com/bimarakajati/Anime-Recommender-System" target="_blank">
                         <b>Anime Recommender System</b>
                     </a>
                 </td>
@@ -105,7 +105,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                    <a href="https://github.com/bimarakajati/Student-Performance-Prediction" target="_blank">
                         <b>Student Performance Prediction</b>
                     </a>
                 </td>
@@ -115,7 +115,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                    <a href="https://github.com/bimarakajati/Shop-Customer-Clustering-and-Classification" target="_blank">
                         <b>Shop Customer Clustering and Classification</b>
                     </a>
                 </td>
@@ -194,7 +194,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
+                    <a href="https://github.com/bimarakajati/Bike-Sharing-Data-Analysis" target="_blank">
                         <b>Bike Sharing Data Analysis</b>
                     </a>
                 </td>
