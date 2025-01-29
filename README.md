@@ -1,7 +1,10 @@
-### 👋 Hello world!
-<p>
+<h3 align="center">
+    👋 Hello world!
+</h3>
+
+<p align="center">
     Welcome to my github profile!</br> 
-    I'm Bima, a junior data scientist from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" /> <b>Indonesia</b>.</br>
+    I'm <b>Bima</b>, a junior data scientist from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" /> <b>Indonesia</b>.</br>
     I'm passionate about data science, python, and machine learning.</br>
     Feel free to explore my repositories and projects below!
 </p>
