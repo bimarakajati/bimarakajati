@@ -128,6 +128,16 @@
             </tr>
             <tr>
                 <td>
+                    <a href="https://github.com/bimarakajati/Comparison-of-Naive-Bayes-and-Support-Vector-Machine-Methods-in-Classifying-22-Regional-Languages" target="_blank">
+                        <b>🇮🇩 Comparison of Naïve Bayes and Support Vector Machine Methods in Classifying 22 Regional Languages</b>
+                    </a>
+                </td>
+                <td>
+                    Indonesia's cultural diversity includes over 1,300 ethnic groups and 2,500 regional languages, posing challenges for language identification in text. This study compares Machine Learning methods to classify 22 regional languages, focusing on their relative performance.
+                </td>
+            </tr>
+            <tr>
+                <td>
                     <a href="https://github.com/bimarakajati/Tesla-Stock-Prediction" target="_blank">
                         <b>🚗 Tesla Stock Prediction using LSTM</b>
                     </a>
