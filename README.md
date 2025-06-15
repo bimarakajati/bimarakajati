@@ -28,6 +28,36 @@
         <tbody>
             <tr>
                 <td>
+                    <a href="https://github.com/bimarakajati/Jaya-Jaya-Institut-Data-Analytics-and-Dashboard" target="_blank">
+                        <b>📊 Jaya Jaya Institut Data Analytics and Dashboard</b>
+                    </a>
+                </td>
+                <td>
+                    -
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Jaya-Jaya-Maju-HR-Data-Analytics-and-Dashboard" target="_blank">
+                        <b>📊 Jaya Jaya Maju HR Data Analytics and Dashboard</b>
+                    </a>
+                </td>
+                <td>
+                    -
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/bimarakajati/Minecraft-Sentiment-Analysis" target="_blank">
+                        <b>⛏️ Minecraft Sentiment Analysis</b>
+                    </a>
+                </td>
+                <td>
+                    -
+                </td>
+            </tr>
+            <tr>
+                <td>
                     <a href="https://github.com/bimarakajati/Nusacular" target="_blank">
                         <b>🇮🇩 Nusacular</b>
                     </a>
